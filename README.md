@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Radwan</h1>
+<h1 align="center">Hi, I'm Ahmed Radwan</h1>
 <h3 align="center">A software engineering student at King Fahd University of Petroleum and Minerals, with a strong passion for technology and programming. I have gained hands-on experience in designing and developing software solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed11178&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed11178" /> </p>
