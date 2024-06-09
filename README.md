@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed11178&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed11178" /> </p>
 
-- 🔭 I’m currently working on **UnityFunds website**
-
 - 🌱 I’m currently learning **Spring | Express JS | SQL Server Management | Firebase.**
 
 - 📫 How to reach me **ahmed.m.aa.radwan@gmail.com**
