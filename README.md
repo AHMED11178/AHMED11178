@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed11178&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed11178" /> </p>
 
-- 🌱 I’m currently learning **django | Express JS | SQL Server Management | Firebase | FastAPI.**
-
 - 📫 How to reach me **ahmed.m.aa.radwan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
