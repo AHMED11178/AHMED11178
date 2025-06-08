@@ -8,8 +8,3 @@
   <a href="https://linkedin.com/in/ahmed-radwan-9b92351aa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://komarev.com/ghpvc/?username=AHMED11178&style=for-the-badge" alt="Profile views" />
 </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/ahmed-radwan-9b92351aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ahmed-radwan-9b92351aa" height="30" width="40" /></a>
-</p>
