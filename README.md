@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ahmed Radwan</h1>
-<h3 align="center">A software engineering student at KFUPM, with a strong passion for technology and programming.</h3>
+<h3 align="center">Cloud & DevOps, Building with AWS, Docker, Kubernetes & Terraform</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed11178&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed11178" /> </p>
 
